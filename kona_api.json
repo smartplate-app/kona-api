@@ -1,7 +1,7 @@
 {
   "success": true,
   "month": "2026-08",
-  "last_updated": "2026-08-04T14:53:36.278392Z",
+  "last_updated": "2026-08-04T14:55:22Z",
   "source": "tabit_api_direct",
   "total_sales_vat": 66773.0,
   "total_sales_net": 56587.29,
@@ -36,14 +36,14 @@
   "non_wolt_vat": 58771.0,
   "wolt_commission": 1920.48,
   "wolt_pct": 2.9,
-  "labor_cost": 19864.17,
-  "labor_hours": 370.26,
+  "labor_cost": 19875.76,
+  "labor_hours": 370.55,
   "labor_pct": 35.1,
   "workers": [
     {
       "name": "יוסי קסלסי",
-      "cost": 2304.69,
-      "hours": 27.11
+      "cost": 2306.6,
+      "hours": 27.14
     },
     {
       "name": "מוחמד חדור",
@@ -82,8 +82,8 @@
     },
     {
       "name": "נגה פרסיקו",
-      "cost": 763.42,
-      "hours": 12.19
+      "cost": 765.72,
+      "hours": 12.22
     },
     {
       "name": "נגה פרסיקו",
@@ -118,7 +118,7 @@
     {
       "name": "מישל זבלוצקי",
       "cost": 624,
-      "hours": 1.41
+      "hours": 1.44
     },
     {
       "name": "יוסי קסלסי",
@@ -127,18 +127,18 @@
     },
     {
       "name": "אליסה סריאן",
-      "cost": 540.01,
-      "hours": 10.21
+      "cost": 541.57,
+      "hours": 10.24
     },
     {
       "name": "Tsagay Brhane",
-      "cost": 444.65,
-      "hours": 7.41
+      "cost": 446.42,
+      "hours": 7.44
     },
     {
       "name": "סבה אוטקין",
-      "cost": 316.45,
-      "hours": 5.61
+      "cost": 318.11,
+      "hours": 5.64
     },
     {
       "name": "יעקב סברדלוב",
@@ -172,8 +172,8 @@
     },
     {
       "name": "ים בן אהרון",
-      "cost": 78.65,
-      "hours": 1.31
+      "cost": 80.42,
+      "hours": 1.34
     },
     {
       "name": "יולי גולד",
@@ -187,13 +187,13 @@
     },
     {
       "name": "יוליה גרבניוק",
-      "cost": 58.6,
-      "hours": 8.28
+      "cost": 58.81,
+      "hours": 8.31
     },
     {
       "name": "אלמוג בלסיאנו",
-      "cost": 37.48,
-      "hours": 5.29
+      "cost": 37.69,
+      "hours": 5.32
     },
     {
       "name": "רוני תורגמן",
@@ -202,8 +202,8 @@
     },
     {
       "name": "יואב וטרמן",
-      "cost": 20.14,
-      "hours": 2.84
+      "cost": 20.35,
+      "hours": 2.87
     }
   ],
   "sold_items": [
