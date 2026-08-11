@@ -1,11 +1,11 @@
 {
   "success": true,
   "month": "2026-08",
-  "last_updated": "2026-08-10T07:31:03.046799Z",
+  "last_updated": "2026-08-11T07:31:05.839235Z",
   "source": "tabit_api_direct_script",
-  "total_sales_vat": 214133.0,
-  "total_sales_net": 181468.64,
-  "days_collected": 9,
+  "total_sales_vat": 237083.0,
+  "total_sales_net": 200917.8,
+  "days_collected": 10,
   "daily_sales": [
     {
       "date": "2026-08-01",
@@ -63,43 +63,64 @@
     },
     {
       "date": "2026-08-10",
+      "amount": 22950.0,
+      "wolt": 4596.0,
+      "non_wolt": 18354.0
+    },
+    {
+      "date": "2026-08-11",
       "amount": 0.0,
       "wolt": 0.0,
       "non_wolt": 0.0
     }
   ],
-  "wolt_vat": 23238.0,
-  "non_wolt_vat": 190895.0,
-  "wolt_commission": 5577.12,
-  "wolt_pct": 2.6,
-  "labor_cost": 53175.24,
-  "labor_hours": 1049.82,
-  "labor_pct": 29.3,
+  "wolt_vat": 27834.0,
+  "non_wolt_vat": 209249.0,
+  "wolt_commission": 6680.16,
+  "wolt_pct": 2.8,
+  "labor_cost": 60094.78,
+  "labor_hours": 1182.82,
+  "labor_pct": 29.9,
   "workers": [
     {
       "name": "Redei Teklit",
-      "cost": 5278.86,
-      "hours": 77.57
+      "cost": 5771.36,
+      "hours": 85.73
     },
     {
       "name": "יוסי קסלסי",
-      "cost": 4910.09,
-      "hours": 62.72
+      "cost": 5504.63,
+      "hours": 69.83
     },
     {
       "name": "מוחמד חדור",
-      "cost": 4645.16,
-      "hours": 51.47
+      "cost": 5109.68,
+      "hours": 56.47
     },
     {
       "name": "אליסה סריאן",
-      "cost": 3072.55,
-      "hours": 52.9
+      "cost": 3486.15,
+      "hours": 60.73
     },
     {
       "name": "נגה פרסיקו",
-      "cost": 2813.6,
-      "hours": 36.58
+      "cost": 3468.8,
+      "hours": 45.17
+    },
+    {
+      "name": "נתנאלה דוברוצקי בלום",
+      "cost": 3120,
+      "hours": 32.33
+    },
+    {
+      "name": "עומר לינקסמן",
+      "cost": 2914.52,
+      "hours": 58.32
+    },
+    {
+      "name": "אירה טברסקי",
+      "cost": 2811,
+      "hours": 42.23
     },
     {
       "name": "יעקב סברדלוב",
@@ -107,24 +128,9 @@
       "hours": 38.37
     },
     {
-      "name": "עומר לינקסמן",
-      "cost": 2611.06,
-      "hours": 52.15
-    },
-    {
-      "name": "אירה טברסקי",
-      "cost": 2553,
-      "hours": 37.93
-    },
-    {
-      "name": "נתנאלה דוברוצקי בלום",
-      "cost": 2496,
-      "hours": 25.35
-    },
-    {
       "name": "שני ואיסבן",
-      "cost": 2236.13,
-      "hours": 33.78
+      "cost": 2572.13,
+      "hours": 39.38
     },
     {
       "name": "עופר מאס",
@@ -132,19 +138,34 @@
       "hours": 21.53
     },
     {
+      "name": "מישל זבלוצקי",
+      "cost": 1872,
+      "hours": 19.2
+    },
+    {
+      "name": "סבה אוטקין",
+      "cost": 1708.92,
+      "hours": 27.92
+    },
+    {
       "name": "נגה פרסיקו",
       "cost": 1628.12,
       "hours": 22.05
     },
     {
-      "name": "נגה פרסיקו",
-      "cost": 1500.72,
-      "hours": 22.13
+      "name": "Tsagay Brhane",
+      "cost": 1615.5,
+      "hours": 25.75
     },
     {
-      "name": "Tsagay Brhane",
-      "cost": 1395.5,
-      "hours": 22.08
+      "name": "יעקב סברדלוב",
+      "cost": 1566.51,
+      "hours": 25.55
+    },
+    {
+      "name": "יוסי קסלסי",
+      "cost": 1563.84,
+      "hours": 24.13
     },
     {
       "name": "סבה אוטקין",
@@ -152,29 +173,19 @@
       "hours": 19.05
     },
     {
-      "name": "סבה אוטקין",
-      "cost": 1265.24,
-      "hours": 20.05
-    },
-    {
-      "name": "מישל זבלוצקי",
-      "cost": 1248,
-      "hours": 15.85
-    },
-    {
-      "name": "יוסי קסלסי",
-      "cost": 1175.04,
-      "hours": 18.13
-    },
-    {
       "name": "נגה פרסיקו",
       "cost": 984.59,
       "hours": 11.17
     },
     {
-      "name": "יעקב סברדלוב",
-      "cost": 891.12,
-      "hours": 14.57
+      "name": "נגה פרסיקו",
+      "cost": 845.52,
+      "hours": 13.55
+    },
+    {
+      "name": "יאיר שטר",
+      "cost": 711.45,
+      "hours": 12.17
     },
     {
       "name": "ים בן אהרון",
@@ -202,19 +213,19 @@
       "hours": 5.83
     },
     {
+      "name": "עלן גומלסקי",
+      "cost": 450,
+      "hours": 8.33
+    },
+    {
       "name": "יוליה גולדין",
       "cost": 420,
       "hours": 7
     },
     {
-      "name": "יאיר שטר",
-      "cost": 386.55,
-      "hours": 6.15
-    },
-    {
       "name": "גיא בראון",
-      "cost": 303.15,
-      "hours": 40.77
+      "cost": 357.9,
+      "hours": 48.5
     },
     {
       "name": "יאיר שטר",
@@ -222,9 +233,24 @@
       "hours": 33.1
     },
     {
+      "name": "יואב וטרמן",
+      "cost": 249.19,
+      "hours": 34.18
+    },
+    {
       "name": "גלב פיטרסקי",
       "cost": 243.46,
       "hours": 32.97
+    },
+    {
+      "name": "יוסי קסלסי",
+      "cost": 231.16,
+      "hours": 3.57
+    },
+    {
+      "name": "מאיה קורנבליט",
+      "cost": 211.05,
+      "hours": 26.5
     },
     {
       "name": "יוליה גרבניוק",
@@ -242,9 +268,9 @@
       "hours": 24.05
     },
     {
-      "name": "יואב וטרמן",
-      "cost": 177.65,
-      "hours": 24.5
+      "name": "יוליה גולדין",
+      "cost": 168.15,
+      "hours": 20.95
     },
     {
       "name": "יעקב סברדלוב",
@@ -252,24 +278,9 @@
       "hours": 2.97
     },
     {
-      "name": "מאיה קורנבליט",
-      "cost": 165.62,
-      "hours": 20.08
-    },
-    {
-      "name": "עלן גומלסקי",
-      "cost": 157.5,
-      "hours": 2.92
-    },
-    {
       "name": "סבה אוטקין",
       "cost": 153.22,
       "hours": 2.72
-    },
-    {
-      "name": "יוליה גולדין",
-      "cost": 145.73,
-      "hours": 17.78
     },
     {
       "name": "יולי גולד",
@@ -312,6 +323,11 @@
       "hours": 5.9
     },
     {
+      "name": "עופר מאס",
+      "cost": 38.35,
+      "hours": 5.42
+    },
+    {
       "name": "מישל זבלוצקי",
       "cost": 37.2,
       "hours": 4.45
@@ -320,242 +336,258 @@
       "name": "רוני תורגמן",
       "cost": 36.58,
       "hours": 5.17
+    },
+    {
+      "name": "יוליה גולדין",
+      "cost": 0,
+      "hours": 2.05
+    },
+    {
+      "name": "עלן גומלסקי",
+      "cost": 0,
+      "hours": 0.5
     }
   ],
   "sold_items": [
     {
       "name": "תוספת צ׳יפס",
-      "sold": 494,
-      "amountVat": 12449.92,
+      "sold": 580,
+      "amountVat": 14449.2,
       "department": "מזון"
     },
     {
       "name": "קריספי פיש",
-      "sold": 467,
-      "amountVat": 32429.49,
+      "sold": 529,
+      "amountVat": 36874.71,
       "department": "מזון"
     },
     {
       "name": "ציזבורגר",
-      "sold": 434,
-      "amountVat": 26224.8,
+      "sold": 466,
+      "amountVat": 27966.8,
       "department": "מזון"
     },
     {
       "name": "ציפס",
-      "sold": 414,
-      "amountVat": 14258.48,
+      "sold": 444,
+      "amountVat": 15398.48,
       "department": "מזון"
     },
     {
       "name": "רוטב הבית",
-      "sold": 340,
-      "amountVat": 1792.82,
+      "sold": 432,
+      "amountVat": 2274.74,
       "department": "מזון"
     },
     {
       "name": "סמאש בורגר",
-      "sold": 322,
-      "amountVat": 16235.4,
+      "sold": 356,
+      "amountVat": 18315.4,
       "department": "מזון"
     },
     {
       "name": "קולה זירו",
-      "sold": 302,
-      "amountVat": 4144.46,
+      "sold": 352,
+      "amountVat": 4894.46,
       "department": "משקאות"
     },
     {
       "name": "טרטר דג",
-      "sold": 284,
-      "amountVat": 19079.16,
+      "sold": 310,
+      "amountVat": 20847.16,
       "department": "מזון"
     },
     {
       "name": "ירוקים שרופים באש",
-      "sold": 276,
-      "amountVat": 14400.24,
+      "sold": 296,
+      "amountVat": 15296.24,
       "department": "מזון"
     },
     {
       "name": "שיפוד שייטל",
-      "sold": 252,
-      "amountVat": 22487.62,
-      "department": "מזון"
-    },
-    {
-      "name": "תוספת קציצה",
-      "sold": 250,
-      "amountVat": 3671.76,
+      "sold": 277,
+      "amountVat": 24787.62,
       "department": "מזון"
     },
     {
       "name": "פסטה שמנמנה",
-      "sold": 236,
-      "amountVat": 15386.16,
+      "sold": 268,
+      "amountVat": 17562.16,
+      "department": "מזון"
+    },
+    {
+      "name": "תוספת קציצה",
+      "sold": 258,
+      "amountVat": 3799.76,
       "department": "מזון"
     },
     {
       "name": "חבית 1/2",
-      "sold": 214,
-      "amountVat": 6141.8,
+      "sold": 232,
+      "amountVat": 6789.8,
       "department": "משקאות"
     },
     {
       "name": "סלט אפרסקים",
-      "sold": 214,
-      "amountVat": 12996.24,
+      "sold": 230,
+      "amountVat": 13988.24,
       "department": "מזון"
     },
     {
       "name": "סלט חסות",
-      "sold": 198,
-      "amountVat": 9400.52,
-      "department": "מזון"
-    },
-    {
-      "name": "פרייד ווינגס",
-      "sold": 188,
-      "amountVat": 7536.24,
+      "sold": 218,
+      "amountVat": 10336.52,
       "department": "מזון"
     },
     {
       "name": "תוספת פירה",
-      "sold": 182,
-      "amountVat": 3406.96,
+      "sold": 214,
+      "amountVat": 3860.24,
       "department": "מזון"
     },
     {
-      "name": "מנת לחם",
-      "sold": 167,
-      "amountVat": 3356.7,
+      "name": "פרייד ווינגס",
+      "sold": 214,
+      "amountVat": 8460.24,
       "department": "מזון"
     },
     {
       "name": "בריוש סינטה",
-      "sold": 165,
-      "amountVat": 10091.74,
+      "sold": 193,
+      "amountVat": 11827.74,
+      "department": "מזון"
+    },
+    {
+      "name": "מנת לחם",
+      "sold": 185,
+      "amountVat": 3770.7,
       "department": "מזון"
     },
     {
       "name": "Summer On The Inside",
-      "sold": 162,
-      "amountVat": 8358.4,
+      "sold": 178,
+      "amountVat": 9128.4,
       "department": "משקאות"
     },
     {
       "name": "חבית 1/3",
-      "sold": 152,
-      "amountVat": 4161.98,
+      "sold": 174,
+      "amountVat": 4545.98,
       "department": "משקאות"
     },
     {
+      "name": "קולה",
+      "sold": 166,
+      "amountVat": 2351.94,
+      "department": "משקאות"
+    },
+    {
+      "name": "טרטר בקר",
+      "sold": 165,
+      "amountVat": 10432,
+      "department": "מזון"
+    },
+    {
       "name": "אוקלהומה סמאש בורגר",
-      "sold": 152,
-      "amountVat": 10124.9,
+      "sold": 162,
+      "amountVat": 10804.9,
+      "department": "מזון"
+    },
+    {
+      "name": "שניצל עם פירה",
+      "sold": 157,
+      "amountVat": 11009.58,
       "department": "מזון"
     },
     {
       "name": "טארט קרמל מלוח",
-      "sold": 151,
-      "amountVat": 5386.88,
-      "department": "מזון"
-    },
-    {
-      "name": "טרטר בקר",
-      "sold": 151,
-      "amountVat": 9536,
-      "department": "מזון"
-    },
-    {
-      "name": "קולה",
-      "sold": 150,
-      "amountVat": 2111.94,
-      "department": "משקאות"
-    },
-    {
-      "name": "שניצל עם פירה",
-      "sold": 144,
-      "amountVat": 10073.58,
+      "sold": 157,
+      "amountVat": 5674.88,
       "department": "מזון"
     },
     {
       "name": "Pink Margarita",
-      "sold": 142,
-      "amountVat": 6384.68,
-      "department": "משקאות"
-    },
-    {
-      "name": "סינטה 250",
-      "sold": 136,
-      "amountVat": 16301.18,
-      "department": "מזון"
-    },
-    {
-      "name": "כ. שבלי דומיין דו שרדונה",
-      "sold": 134,
-      "amountVat": 7043.08,
+      "sold": 154,
+      "amountVat": 6934.68,
       "department": "משקאות"
     },
     {
       "name": "סלט עוף",
-      "sold": 129,
-      "amountVat": 8710.16,
+      "sold": 146,
+      "amountVat": 9866.16,
       "department": "מזון"
     },
     {
-      "name": "טארט לימון",
-      "sold": 124,
-      "amountVat": 4974.46,
+      "name": "סינטה 250",
+      "sold": 144,
+      "amountVat": 17261.18,
       "department": "מזון"
     },
     {
-      "name": "Boss Spritz",
-      "sold": 122,
-      "amountVat": 5767.62,
-      "department": "משקאות"
-    },
-    {
-      "name": "צ.בושמילס",
-      "sold": 114,
-      "amountVat": 64.84,
+      "name": "כ. שבלי דומיין דו שרדונה",
+      "sold": 144,
+      "amountVat": 7483.08,
       "department": "משקאות"
     },
     {
       "name": "צ'יזבורגר",
-      "sold": 112,
-      "amountVat": 5794.3,
+      "sold": 143,
+      "amountVat": 7426.11,
       "department": "מזון"
     },
     {
+      "name": "טארט לימון",
+      "sold": 132,
+      "amountVat": 5358.46,
+      "department": "מזון"
+    },
+    {
+      "name": "Boss Spritz",
+      "sold": 126,
+      "amountVat": 5877.62,
+      "department": "משקאות"
+    },
+    {
+      "name": "צ.בושמילס",
+      "sold": 116,
+      "amountVat": 64.84,
+      "department": "משקאות"
+    },
+    {
+      "name": "גזוז היביסקוס",
+      "sold": 90,
+      "amountVat": 1584,
+      "department": "משקאות"
+    },
+    {
       "name": "Kona Sour",
-      "sold": 84,
-      "amountVat": 4351.46,
+      "sold": 90,
+      "amountVat": 4681.46,
       "department": "משקאות"
     },
     {
       "name": "הערה בר",
-      "sold": 78,
+      "sold": 84,
       "amountVat": 0,
       "department": "אחר"
     },
     {
       "name": "צ. קוארבו בלאנק",
-      "sold": 76,
+      "sold": 82,
       "amountVat": 440,
       "department": "משקאות"
     },
     {
-      "name": "גזוז היביסקוס",
-      "sold": 74,
-      "amountVat": 1332,
+      "name": "קוקטייל אישי",
+      "sold": 76,
+      "amountVat": 3686.34,
       "department": "משקאות"
     },
     {
-      "name": "קוקטייל אישי",
-      "sold": 66,
-      "amountVat": 3096.34,
-      "department": "משקאות"
+      "name": "טעימת יין",
+      "sold": 62,
+      "amountVat": 0,
+      "department": "אחר"
     },
     {
       "name": "צ.קינטי ורגנו (אדום)",
@@ -570,6 +602,18 @@
       "department": "משקאות"
     },
     {
+      "name": "סודה גדול",
+      "sold": 58,
+      "amountVat": 1207.5,
+      "department": "משקאות"
+    },
+    {
+      "name": "פריט יבוא wolt",
+      "sold": 56,
+      "amountVat": 4366,
+      "department": "אחר"
+    },
+    {
       "name": "כ. סואבה קלאסיקו",
       "sold": 56,
       "amountVat": 2706.92,
@@ -579,6 +623,18 @@
       "name": "כ.הנדיב בלאן",
       "sold": 56,
       "amountVat": 2464,
+      "department": "משקאות"
+    },
+    {
+      "name": "פחזניות",
+      "sold": 54,
+      "amountVat": 1932,
+      "department": "מזון"
+    },
+    {
+      "name": "ספרייט זירו",
+      "sold": 54,
+      "amountVat": 808.04,
       "department": "משקאות"
     },
     {
@@ -594,45 +650,21 @@
       "department": "משקאות"
     },
     {
-      "name": "פריט יבוא wolt",
-      "sold": 52,
-      "amountVat": 4086,
-      "department": "אחר"
-    },
-    {
-      "name": "סודה גדול",
-      "sold": 52,
-      "amountVat": 1081.5,
-      "department": "משקאות"
-    },
-    {
-      "name": "טעימת יין",
-      "sold": 52,
-      "amountVat": 0,
-      "department": "אחר"
-    },
-    {
-      "name": "פחזניות",
-      "sold": 51,
-      "amountVat": 1794,
-      "department": "מזון"
-    },
-    {
-      "name": "ספרייט זירו",
-      "sold": 50,
-      "amountVat": 748.04,
-      "department": "משקאות"
-    },
-    {
       "name": "הערה מטבח",
-      "sold": 46,
+      "sold": 48,
       "amountVat": 0,
       "department": "אחר"
     },
     {
       "name": "Dante's Inferno",
+      "sold": 48,
+      "amountVat": 2509.9,
+      "department": "משקאות"
+    },
+    {
+      "name": "סודה קטן",
       "sold": 46,
-      "amountVat": 2399.9,
+      "amountVat": 346.26,
       "department": "משקאות"
     },
     {
@@ -648,39 +680,45 @@
       "department": "משקאות"
     },
     {
-      "name": "סודה קטן",
-      "sold": 40,
-      "amountVat": 306.26,
-      "department": "משקאות"
-    },
-    {
       "name": "סכו״ם חד״פ",
-      "sold": 22,
+      "sold": 30,
       "amountVat": 0,
       "department": "אחר"
     },
     {
       "name": "דאבל צ'יזבורגר",
-      "sold": 18,
-      "amountVat": 1157.45,
+      "sold": 20,
+      "amountVat": 1278.9,
       "department": "מזון"
     },
     {
       "name": "שניצל",
-      "sold": 16,
-      "amountVat": 904.46,
+      "sold": 18,
+      "amountVat": 1018.4,
       "department": "מזון"
     },
     {
       "name": "בורגר",
-      "sold": 8,
-      "amountVat": 443.82,
+      "sold": 15,
+      "amountVat": 817.72,
       "department": "מזון"
     },
     {
       "name": "איולי חרדל",
+      "sold": 10,
+      "amountVat": 78.96,
+      "department": "מזון"
+    },
+    {
+      "name": "מנת עוף",
+      "sold": 10,
+      "amountVat": 1.53,
+      "department": "מזון"
+    },
+    {
+      "name": "תוספת חלפיניו",
       "sold": 7,
-      "amountVat": 50.84,
+      "amountVat": 35,
       "department": "מזון"
     },
     {
@@ -690,15 +728,15 @@
       "department": "מזון"
     },
     {
-      "name": "תוספת חלפיניו",
-      "sold": 6,
-      "amountVat": 30,
-      "department": "מזון"
+      "name": "צ.צינר ארטישוק",
+      "sold": 5,
+      "amountVat": 2.92,
+      "department": "משקאות"
     },
     {
-      "name": "מנת עוף",
-      "sold": 6,
-      "amountVat": 1.53,
+      "name": "סלט חסות קטן",
+      "sold": 5,
+      "amountVat": 140,
       "department": "מזון"
     },
     {
@@ -732,9 +770,9 @@
       "department": "מזון"
     },
     {
-      "name": "סלט חסות קטן",
+      "name": "דאבל בורגר",
       "sold": 4,
-      "amountVat": 112,
+      "amountVat": 269.81,
       "department": "מזון"
     },
     {
@@ -756,12 +794,6 @@
       "department": "משקאות"
     },
     {
-      "name": "צ.צינר ארטישוק",
-      "sold": 3,
-      "amountVat": 2.92,
-      "department": "משקאות"
-    },
-    {
       "name": "צ. בומביי ספייר",
       "sold": 3,
       "amountVat": 2.16,
@@ -775,6 +807,12 @@
     },
     {
       "name": "כ.מלו ילו",
+      "sold": 2,
+      "amountVat": 0,
+      "department": "משקאות"
+    },
+    {
+      "name": "כ.לה קפריאד",
       "sold": 2,
       "amountVat": 0,
       "department": "משקאות"
@@ -798,9 +836,27 @@
       "department": "משקאות"
     },
     {
+      "name": "ג׳ינג׳ר אייל",
+      "sold": 1,
+      "amountVat": 0,
+      "department": "משקאות"
+    },
+    {
+      "name": "קוקטייל וירגין",
+      "sold": 1,
+      "amountVat": 38,
+      "department": "משקאות"
+    },
+    {
       "name": "מרגריטה קלאסית",
       "sold": 1,
       "amountVat": 24,
+      "department": "משקאות"
+    },
+    {
+      "name": "אמריקנו",
+      "sold": 1,
+      "amountVat": 0,
       "department": "משקאות"
     },
     {
@@ -822,5 +878,5 @@
       "department": "משקאות"
     }
   ],
-  "sold_items_count": 83
+  "sold_items_count": 88
 }
